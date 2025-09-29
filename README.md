@@ -38,7 +38,7 @@
    
 </td>
 <td style="vertical-align: top; text-align: right; width: 40%;">
-  <img src="https://github.com/jorge-nbb/images/raw/main/gpo1.png" alt="gpo1" width="350"/>
+  <img src="https://github.com/jorge-nbb/images/blob/main/p36.png" alt="36" width="350"/>
 </td>
   </tr>
 </table>
@@ -59,7 +59,9 @@
 
 </td>
 <td style="vertical-align: top; text-align: right; width: 40%;">
-<img src="https://github.com/jorge-nbb/images/raw/main/gpo2.png" alt="gpo2" width="350"/>
+<img src="https://github.com/jorge-nbb/images/blob/main/p37.png" alt="37" width="350"/>
+   <hr>
+<img src="https://github.com/jorge-nbb/images/blob/main/p37.1.png" alt="37.1" width="350"/>
 </td>
 </tr>
 </table>
@@ -79,7 +81,7 @@
 
 </td>
 <td style="vertical-align: top; text-align: right; width: 40%;">
-<img src="https://github.com/jorge-nbb/images/raw/main/gpo3.png" alt="gpo3" width="350"/>
+<img src="https://github.com/jorge-nbb/images/blob/main/p38.png" alt="38" width="350"/>
 </td>
 </tr>
 </table>
@@ -101,7 +103,7 @@
 
 </td>
 <td style="vertical-align: top; text-align: right; width: 40%;">
-<img src="https://github.com/jorge-nbb/images/raw/main/gpo4.png" alt="gpo4" width="350"/>
+<img src="https://github.com/jorge-nbb/images/blob/main/p39.png" alt="39" width="350"/>
 </td>
 </tr>
 </table>
@@ -114,8 +116,8 @@
 <tr>
  <td style="vertical-align: top; width: 60%;">
 
-1. Confirm `testuser` is located in the default **Users** container  
-- *(No need to move it to a new OU)*  
+1. Confirm `testuser` is located in the default **Users** container
+   - *(No need to move it to a new OU)*  
 2. Log into **Client-PC** as `testuser`  
 3. Open **Command Prompt** and run:
 ```
@@ -123,11 +125,6 @@ gpupdate /force
 ```
 4. Reboot or log off/on
    
-</td>
-<td style="vertical-align: top; text-align: right; width: 40%;">
-<img src="https://github.com/jorge-nbb/images/raw/main/gpo5.png" alt="gpo5" width="350"/>
-</td>
-</tr>
 </table>
 
 ---
@@ -147,6 +144,13 @@ gpupdate /force
 5. Attempt to open **Control Panel**
    - There should see a restriction message
 
+</td>
+<td style="vertical-align: top; text-align: right; width: 40%;">
+<img src="https://github.com/jorge-nbb/images/blob/main/p40.png" alt="40" width="350"/>
+</td>
+</tr>
+</table>
+
 ---
 
 ## 📝 Results
@@ -155,3 +159,6 @@ gpupdate /force
 - GPO created, linked, and applied to domain users
 - `testuser` blocked from accessing the Control Panel
 - Demonstrated successful policy enforcement through Group Policy
+
+---
+
