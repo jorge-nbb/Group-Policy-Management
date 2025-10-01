@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/jorge-nbb/images/raw/main/logo-azure-ad.png" alt="ad logo" width="300"/>
+  <img src="https://github.com/jorge-nbb/Group-Policy-Management/blob/main/images/logo-azure-ad.png" alt="ad logo" width="300"/>
 </p>
 
 <h1 align="center">Group Policy Management</h1>
@@ -38,7 +38,7 @@
    
 </td>
 <td style="vertical-align: top; text-align: right; width: 40%;">
-  <img src="https://github.com/jorge-nbb/images/blob/main/p36.png" alt="36" width="350"/>
+  <img src="https://github.com/jorge-nbb/Group-Policy-Management/blob/main/images/p36.png" alt="36" width="350"/>
 </td>
   </tr>
 </table>
@@ -59,9 +59,9 @@
 
 </td>
 <td style="vertical-align: top; text-align: right; width: 40%;">
-<img src="https://github.com/jorge-nbb/images/blob/main/p37.png" alt="37" width="350"/>
+<img src="https://github.com/jorge-nbb/Group-Policy-Management/blob/main/images/p37.png" alt="37" width="350"/>
    <hr>
-<img src="https://github.com/jorge-nbb/images/blob/main/p37.1.png" alt="37.1" width="350"/>
+<img src="https://github.com/jorge-nbb/Group-Policy-Management/blob/main/images/p37.1.png" alt="37.1" width="350"/>
 </td>
 </tr>
 </table>
@@ -81,7 +81,7 @@
 
 </td>
 <td style="vertical-align: top; text-align: right; width: 40%;">
-<img src="https://github.com/jorge-nbb/images/blob/main/p38.png" alt="38" width="350"/>
+<img src="https://github.com/jorge-nbb/Group-Policy-Management/blob/main/images/p38.png" alt="38" width="350"/>
 </td>
 </tr>
 </table>
@@ -103,7 +103,7 @@
 
 </td>
 <td style="vertical-align: top; text-align: right; width: 40%;">
-<img src="https://github.com/jorge-nbb/images/blob/main/p39.png" alt="39" width="350"/>
+<img src="https://github.com/jorge-nbb/Group-Policy-Management/blob/main/images/p39.png" alt="39" width="350"/>
 </td>
 </tr>
 </table>
@@ -146,7 +146,7 @@ gpupdate /force
 
 </td>
 <td style="vertical-align: top; text-align: right; width: 40%;">
-<img src="https://github.com/jorge-nbb/images/blob/main/p40.png" alt="40" width="350"/>
+<img src="https://github.com/jorge-nbb/Group-Policy-Management/blob/main/images/p40.png" alt="40" width="350"/>
 </td>
 </tr>
 </table>
